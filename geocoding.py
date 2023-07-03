@@ -1,5 +1,5 @@
 # python 3.7
-# author: ivy
+# author: Yingjing Huang
 # Date: 2021/8/27
 # 使用百度地图api进行地理编码
 
